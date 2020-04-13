@@ -1,3 +1,2 @@
-# everyday_algorithm
-- study  algorithm every day 
+# algorithm
 - 螺旋本に出てくるアルゴリズムをpythonで実装
